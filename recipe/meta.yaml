@@ -10,7 +10,7 @@ source:
   sha256: 565f77aaaaa72a16c5e662b7421985e702a86e181acfea6135a4b3bb4036b46e
 
 build:
-  number: 0
+  number: 1
   # Build only for Python 3.6 and above
   skip: true  # [py<36]
 
